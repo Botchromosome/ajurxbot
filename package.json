@@ -1,6 +1,6 @@
 {
-  "name": "wabot-adi",
-  "version": "3.0.0",
+  "name": "WaBoT-ChM",
+  "version": "2.2143.3",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "adi.js",
